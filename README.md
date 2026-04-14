@@ -88,7 +88,7 @@ Isso permite que as informações permaneçam salvas mesmo após encerrar o prog
 
 Desenvolvido por **Nicolas Fadel**
 
-🔗 LinkedIn: https://www.linkedin.com/in/seu-link  
-🔗 GitHub: https://github.com/seu-usuario
+🔗 LinkedIn: https://www.linkedin.com/in/nicolascfadel/
+🔗 GitHub: https://github.com/nicolascfadel
 
 ---
