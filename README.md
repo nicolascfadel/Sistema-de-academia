@@ -1,8 +1,7 @@
 # 🏋️ Sistema de Academia (CLI em Python com Persistência em JSON)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/status-concluído-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 Sistema de gerenciamento de academia desenvolvido em Python, com foco em organização de exercícios e montagem de treinos, utilizando persistência de dados em JSON.
 
@@ -17,14 +16,6 @@ Sistema de gerenciamento de academia desenvolvido em Python, com foco em organiz
 - ❌ Remoção de exercícios
 - 🏋️ Criação de treinos com vínculo de exercícios
 - 📂 Persistência de dados em arquivo JSON
-
----
-
-## 🎥 Demonstração
-
-![Demonstração do sistema](gif.gif)
-
-> 💡 *Substitua `gif.gif` pelo GIF do seu sistema rodando (recomendado usar um trecho curto do vídeo).*
 
 ---
 
