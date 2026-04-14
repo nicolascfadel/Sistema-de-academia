@@ -1,0 +1,131 @@
+{
+    "exercicios": [
+        {
+            "nome": "Cadeira Extensora",
+            "categoria": "Pernas"
+        },
+        {
+            "nome": "Cadeira Flexora",
+            "categoria": "Pernas"
+        },
+        {
+            "nome": "Remada Curvada",
+            "categoria": "Costas"
+        },
+        {
+            "nome": "Puxada alta",
+            "categoria": "Costas"
+        },
+        {
+            "nome": "Supino Inclinado",
+            "categoria": "Peitos"
+        },
+        {
+            "nome": "Supino Reto",
+            "categoria": "Peitos"
+        },
+        {
+            "nome": "Rosca Alternada",
+            "categoria": "Bíceps"
+        },
+        {
+            "nome": "Rosca Martelo",
+            "categoria": "Bíceps"
+        },
+        {
+            "nome": "Tríceps Testa",
+            "categoria": "Tríceps"
+        },
+        {
+            "nome": "Tríceps na Polia",
+            "categoria": "Tríceps"
+        }
+    ],
+    "treinos": [
+        {
+            "nome": "Treino A",
+            "exercicios": [
+                {
+                    "nome": "Remada Curvada",
+                    "categoria": "Costas",
+                    "series": [
+                        10,
+                        10,
+                        8,
+                        8
+                    ]
+                },
+                {
+                    "nome": "Puxada alta",
+                    "categoria": "Costas",
+                    "series": [
+                        12,
+                        8,
+                        10,
+                        8
+                    ]
+                },
+                {
+                    "nome": "Rosca Alternada",
+                    "categoria": "Bíceps",
+                    "series": [
+                        10,
+                        8,
+                        8
+                    ]
+                },
+                {
+                    "nome": "Rosca Martelo",
+                    "categoria": "Bíceps",
+                    "series": [
+                        10,
+                        10,
+                        8
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Treino B",
+            "exercicios": [
+                {
+                    "nome": "Supino Inclinado",
+                    "categoria": "Peitos",
+                    "series": [
+                        10,
+                        10,
+                        12,
+                        6
+                    ]
+                },
+                {
+                    "nome": "Supino Reto",
+                    "categoria": "Peitos",
+                    "series": [
+                        10,
+                        10,
+                        8
+                    ]
+                },
+                {
+                    "nome": "Tríceps Testa",
+                    "categoria": "Tríceps",
+                    "series": [
+                        10,
+                        10,
+                        10
+                    ]
+                },
+                {
+                    "nome": "Tríceps na Polia",
+                    "categoria": "Tríceps",
+                    "series": [
+                        10,
+                        10,
+                        8
+                    ]
+                }
+            ]
+        }
+    ]
+}
