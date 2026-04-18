@@ -38,7 +38,7 @@ Sistema de gerenciamento de academia desenvolvido em Python, com foco em organiz
 1. Clone o repositório:
 
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/nicolascfadel/Sistema-de-academia.git
 
 
 2. Acesse a pasta do projeto:
